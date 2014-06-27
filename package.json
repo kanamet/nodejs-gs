@@ -1,0 +1,20 @@
+{
+  "author": "kanamet",
+  "name": "nodejs-gs",
+  "description": "This example app is so cool",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kanamet/nodejs-gs.git"
+  },
+  "main": "web.js",
+  "dependencies": {
+    "express": "^4.4.5",
+    "logfmt": "^1.1.2"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
